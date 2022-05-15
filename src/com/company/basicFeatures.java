@@ -6,6 +6,6 @@ public class basicFeatures {
     String Color;
     String doors;
     String headLights;
-
+    String regNo;
 
 }
